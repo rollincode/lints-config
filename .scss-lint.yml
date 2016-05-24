@@ -1,0 +1,9 @@
+linters:
+  PropertySortOrder:
+    enabled: false
+  ColorVariable:
+    enabled: false
+  Comment:
+    enabled: false
+  VendorPrefix:
+    enabled: false
