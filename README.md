@@ -1,1 +1,4 @@
-### Default Lints cofnig ###
+### Default Lints cofing ###
+
+- [] Ruby
+- [] SCSS
